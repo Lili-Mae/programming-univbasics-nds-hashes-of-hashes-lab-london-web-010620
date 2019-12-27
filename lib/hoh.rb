@@ -59,7 +59,7 @@ def naming_system
     #}
 #  }
   
-  PORTION_1 = {
+  earth = {
   label: "Kingdom",
     sub_category: {
     label: "Phylum",
