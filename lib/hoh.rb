@@ -59,6 +59,14 @@ def naming_system
     #}
 #  }
   
-  earth = {:Kingdom=>{:Phylum=>{:Class=>{:Order=>{:Family=>{:Genus=>{:Species=>{}}}}}}}}
+  PORTION_1 = {
+  label: "Kingdom",
+    sub_category: {
+    label: "Phylum",
+     sub_category: {
+       label: "Class"
+     }
+   }
+ }
 
 end
